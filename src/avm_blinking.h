@@ -1,7 +1,3 @@
-/*
-Proiect realizat de Swiss WebAcademy
-*/
-
 #ifndef AVM_Blink
 #define AVM_Blink
 

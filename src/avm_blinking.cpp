@@ -1,6 +1,3 @@
-/*
-Proiect realizat de Swiss WebAcademy
-*/
 #include "Arduino.h"
 #include <avm_blinking.h>
 
