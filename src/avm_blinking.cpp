@@ -14,3 +14,8 @@ void AVM_Blink(int durata) {
 	digitalWrite(LED_BUILTIN, LOW);
 	delay(durata);
 }
+
+void AVM_NoBlink() {
+	digitalWrite(LED_BUILTIN, LOW);
+	delay(1000);
+}
